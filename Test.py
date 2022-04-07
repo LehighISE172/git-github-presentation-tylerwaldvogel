@@ -15,6 +15,7 @@ g.addNode(3)
 
 g.addEdge(1,2)
 g.addEdge(2,3)
+g.addedge(3,1)
 
 
 t = turtle.Turtle()
